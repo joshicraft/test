@@ -5,8 +5,6 @@ import store from './store'
 import './registerServiceWorker'
 import Vuetify from 'vuetify'
 import 'vuetify/dist/vuetify.min.css'
-
-// import '~vuetify/src/stylus/main'
 Vue.use(Vuetify)
 Vue.config.productionTip = false
 
